@@ -28,7 +28,7 @@ function App(){
     <div
         className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
         style={{
-            backgroundImage: `url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwH1jppB2uoA_Z1MPYjIgny0mG12voybdfmg&s')`,
+            backgroundColor: '#212121',
         }}
     >
         <div className="w-full">
