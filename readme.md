@@ -19,3 +19,7 @@ then
 </userContext>
 
 now the it have the access of the global variable
+
+
+# Props validation error - solved -> file name (eslint.config.js) -> rules
+"react/prop-types": "off",
